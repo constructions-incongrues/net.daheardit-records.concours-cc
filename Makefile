@@ -18,7 +18,7 @@ tirage:
 	@echo "$$(shuf -n $(NUM_GAGNANTS) ./participants.txt)"
 	@echo "♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥"
 	@echo
-	@sleep 10
+	@sleep 5
 	@echo "♫ ♫ Trompettes grandioses, Hymne à la Vie, rideau ♫ ♫"
 	@echo
 	@cat kisses.txt
